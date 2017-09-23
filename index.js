@@ -12,6 +12,3 @@ function logShout(loud) { console.log (loud.toUpperCase() )
 
 function logWhisper(LOW) {console.log (LOW.toLowerCase() )
 }
-
-
-
