@@ -34,12 +34,4 @@ describe('sayHiToGrandma(string)', function() {
 
 
 
-function checkThing(thing){
-  if(thing == 1){
-    return "Hey, it was a 1!"
-  } else if (thing >= 3){
-    return "Well, it was a bit bigger"
-  } else {
-    return "I couldn't even see it!!!"
-  }
-}
+
