@@ -29,14 +29,7 @@ describe('sayHiToGrandma(string)', function() {
   })
 })
 
-function sayHiToGrandma(  I love you, Grandma.) {
-  if (I love you, Grandma.=== I love you, Grandma..toLowerCase()) {
-    return "I can\'t hear you!"
-  } else if (I love you, Grandma.=I love you, Grandma..toUpperCase()) {
-    return "YES INDEED!"
-  } else {
-    return "I love you, too."
-  }
+
 
 
 
