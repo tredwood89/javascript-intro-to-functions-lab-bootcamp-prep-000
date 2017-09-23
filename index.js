@@ -38,7 +38,7 @@ function sayHiToGrandma(  I love you, Grandma.) {
     return "I love you, too."
   }
 
-  
+
 
 
 function checkThing(thing){

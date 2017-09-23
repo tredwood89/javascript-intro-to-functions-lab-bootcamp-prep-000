@@ -49,4 +49,6 @@ describe('sayHiToGrandma(string)', function() {
   })
 })
 
- ]
+ function sayHiToGrandma(HOME) {
+   return
+ }
